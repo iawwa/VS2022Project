@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "求解两个动物之间通信的最少翻译问题", "求解两个动物之间通信的最少翻译问题.vcxproj", "{80B68FF8-C60A-4B4E-BAC7-E55F02110089}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80B68FF8-C60A-4B4E-BAC7-E55F02110089}.Debug|x64.ActiveCfg = Debug|x64
+		{80B68FF8-C60A-4B4E-BAC7-E55F02110089}.Debug|x64.Build.0 = Debug|x64
+		{80B68FF8-C60A-4B4E-BAC7-E55F02110089}.Debug|x86.ActiveCfg = Debug|Win32
+		{80B68FF8-C60A-4B4E-BAC7-E55F02110089}.Debug|x86.Build.0 = Debug|Win32
+		{80B68FF8-C60A-4B4E-BAC7-E55F02110089}.Release|x64.ActiveCfg = Release|x64
+		{80B68FF8-C60A-4B4E-BAC7-E55F02110089}.Release|x64.Build.0 = Release|x64
+		{80B68FF8-C60A-4B4E-BAC7-E55F02110089}.Release|x86.ActiveCfg = Release|Win32
+		{80B68FF8-C60A-4B4E-BAC7-E55F02110089}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3611AA6-A1AB-4AAD-A5EE-81A022B13F2D}
+	EndGlobalSection
+EndGlobal
